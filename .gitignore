@@ -1,1 +1,2 @@
 node_modules
+/app/renderer/src/main/node_modules
